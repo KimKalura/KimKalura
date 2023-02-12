@@ -19,3 +19,7 @@
 [![](https://visitcount.itsvg.in/api?id=KimKalura&icon=9&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!--    <img src="https://raw.githubusercontent.com/KimKalura/KimKalura/blob/output/snake.svg" alt="Snake animation" />
+
+###    -->
