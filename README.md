@@ -1,6 +1,6 @@
 <h1 align="center">Hi,  Bună, 你好,  Hallo, שלום, 안녕, Привет 👋 <br>I'm Raluca</h1>
 
-###
+##
 
 🔭 I’m currently working on https://github.com/KimKalura/Language-App-Final-Project<br>
 💎 You can see all my projects here:  https://github.com/KimKalura?tab=repositories<br>
