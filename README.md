@@ -2,12 +2,12 @@
 
 ###
 
-🔭 I’m currently working on https://github.com/KimKalura/Language-App-Final-Project<br>
-💎 You can see all my projects here:  https://github.com/KimKalura?tab=repositories<br>
-📚 I'm currently learning Java, Spring Boot, MySQL<br>
-🌍 I’m looking to collaborate on BackEnd Development<br>
-📫 How to reach me: raluca.deftu@yahoo.com<br>
-🎲 I like to read and learn foreign languages<br>
+- 🔭 I’m currently working on https://github.com/KimKalura/Language-App-Final-Project<br>
+- 💎 You can see all my projects here:  https://github.com/KimKalura?tab=repositories<br>
+- 📚 I'm currently learning Java, Spring Boot, MySQL<br>
+- 🌍 I’m looking to collaborate on BackEnd Development<br>
+- 📫 How to reach me: raluca.deftu@yahoo.com<br>
+- 🎲 I like to read and learn foreign languages<br>
 
 
 ## 🌐 Socials:
