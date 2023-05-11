@@ -2,11 +2,11 @@
 
 ###
 
-- 🔭 I’m currently working on [Language App](https://github.com/KimKalura/Language-App-Final-Project)
+- 💭 I’m currently working on [Language App](https://github.com/KimKalura/Language-App-Final-Project)
 - 💎 You can see all my projects [here](https://github.com/KimKalura?tab=repositories)
 - 📚 I'm currently learning Java, Spring Boot, MySQL<br>
 - 🌍 I’m looking to collaborate on BackEnd Development<br>
-- 🎀 Take a look on my [profile](https://kimkalura.github.io/)
+- ⚜️ Take a look on my [profile](https://kimkalura.github.io/)
 - 📫 How to reach me: raluca.deftu@yahoo.com<br>
 - 🍀 I like to read and learn foreign languages<br>
 
