@@ -1,10 +1,12 @@
-<h1 align="center">Hi,  Bună, 你好,  Hallo, שלום, 안녕, Привет 👋🏻 <br>I'm Raluca</h1>
+<h1 align="center">Hi,  Bună, 你好,  Hallo, שלום, 안녕, Привет 
+<!--<br>I'm Raluca</h1> -->
+<br> ꧁༺ I'm Raluca ༻꧂ </h1>
 
 ###
 
 - 💭 I’m currently working on [Language App](https://github.com/KimKalura/Language-App-Final-Project)
 - 💎 You can see all my projects [here](https://github.com/KimKalura?tab=repositories)
-- 📚 I'm currently learning Java, Spring Boot, MySQL<br>
+- 📚 I'm currently learning 𝒥𝒶𝓋𝒶,  𝒮𝓅𝓇𝒾𝓃𝑔 𝐵𝑜𝑜𝓉,  𝑀𝓎𝒮𝒬𝐿 <br>
 - 🌍 I’m looking to collaborate on BackEnd Development<br>
 - ⚜️ Take a look on my [profile](https://kimkalura.github.io/)
 - 📫 How to reach me: raluca.deftu@yahoo.com<br>
