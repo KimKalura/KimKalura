@@ -10,7 +10,7 @@
 - 🌍 I’m looking to collaborate on BackEnd Development<br>
 - ⚜️ Take a look on my [profile](https://kimkalura.github.io/)
 - 📫 How to reach me: raluca.deftu@yahoo.com<br>
-- 🍀 I like to read and learn foreign languages<br>
+- 🍀 I like to read, learn foreign languages and [make bracelets](https://www.instagram.com/p/C97hI7XoRwYKwSND9FLFWgF0VUQsPaQvvNNFQ80/?img_index=1)<br>
 
 
 ## 🌐 Socials:
