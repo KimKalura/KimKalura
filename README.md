@@ -8,7 +8,7 @@
 - 💎 You can see all my projects [here](https://github.com/KimKalura?tab=repositories)
 - 📚 I'm currently learning 𝒥𝒶𝓋𝒶,  𝒮𝓅𝓇𝒾𝓃𝑔 𝐵𝑜𝑜𝓉,  𝑀𝓎𝒮𝒬𝐿 <br>
 - 🌍 I’m looking to collaborate on BackEnd Development<br>
-<!-- - ⚜️ Take a look on my [profile](https://kimkalura.github.io/) -->
+- ⚜️ Take a look on my [profile](https://kimkalura.github.io/)
 - 📫 How to reach me: raluca.deftu@yahoo.com<br>
 - 🍀 I like to read, learn foreign languages and [make bracelets](https://www.instagram.com/p/C97hI7XoRwYKwSND9FLFWgF0VUQsPaQvvNNFQ80/?img_index=1)<br>
 
